@@ -176,7 +176,7 @@ render() {
         </TouchableOpacity>
         <TouchableOpacity style={styles.secondButton}
           onPress={() => this.setState({isShowLogin: false})}>
-          <Text style={styles.secondButtonText}>Don't have any account?</Text>
+          <Text style={styles.secondButtonText}>Dont have any account?</Text>
         </TouchableOpacity>
       </View>
     )
